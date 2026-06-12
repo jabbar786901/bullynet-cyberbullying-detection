@@ -142,8 +142,8 @@ python app.py
 
 ## 👩‍💻 Authors
 
-* Anjali Kumari
-* Mohd Aqib Ali
 * Syed Abdul Jabbar
+* Mohd Aqib Ali
+* Anjali Kumari
 
 Department of CSE – Artificial Intelligence & Machine Learning
