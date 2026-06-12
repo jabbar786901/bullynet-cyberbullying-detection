@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cyberbullying Detection</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="container">
+    <h1>Cyberbullying Tweet Detection</h1>
+
+    <form action="/predict" method="post">
+        <textarea name="tweet" placeholder="Enter tweet text..." required></textarea>
+        <button type="submit">Predict</button>
+    </form>
+</div>
+</body>
+</html>
